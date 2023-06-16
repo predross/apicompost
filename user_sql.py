@@ -60,3 +60,4 @@ def row_to_dict(row):
         'email' : row['email'],
         'active' : row['active']
     })
+    
