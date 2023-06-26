@@ -1,5 +1,5 @@
 # Simple REST API with Python
-Este repositório foi feito para um tutorial no blog [Simples mas Complexo](https://simplesmascomplexo.com.br/construindo-uma-api-em-python/)
+
 
 ## Instalando Python e PIP
 Para instalar Python3 e PIP, que é o nosso gerenciador de dependências, execute os comandos abaixo se você tiver usando Ubuntu
